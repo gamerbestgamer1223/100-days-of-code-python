@@ -6,6 +6,7 @@ Welcome to my coding journey! I am taking the Udemy 100 Days of Code course to m
 ## 🚀 Progress Log
 
 **Sorry, but starts from Day 5**
+
 Day 5: Password Generator
 Day 6: Coming Soon
 ---
