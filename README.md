@@ -7,7 +7,7 @@ Welcome to my coding journey! I am taking the Udemy 100 Days of Code course to m
 
 **Sorry, but starts from Day 5**
 
-Day 5: Password Generator
+Day 5: Password Generator<br>
 Day 6: Coming Soon
 ---
 
