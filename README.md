@@ -1,7 +1,7 @@
 ![Progress](https://progress-bar.xyz/5/?title=Course%20Progress)
 # 🐍 100 Days of Code: Python Diary
 
-Welcome to my coding journey! I am taking the Udemy 100 Days of Code course to master Python and learn how to use AI as my coding partner.
+Welcome to my coding journey! I'm a twelve-year-old taking the Udemy 100 Days of Code course to master Python and learn to use AI as my coding partner.
 
 ## 🚀 Progress Log
 
