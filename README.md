@@ -7,7 +7,7 @@ Welcome to my coding journey! I'm a twelve-year-old taking the Udemy 100 Days of
 
 **Sorry, but starts from Day 5**
 
-Day 5: Password Generator<br>
+Day 5: Password Generator - [View Code](Final-Projects-Each-Day/day5_password_generator.py)<br>
 Day 6: Coming Soon
 ---
 
